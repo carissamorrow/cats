@@ -1,0 +1,14 @@
+C:\Users\Chris\source\codeworks\cats\bin\Debug\netcoreapp2.2\cats.deps.json
+C:\Users\Chris\source\codeworks\cats\bin\Debug\netcoreapp2.2\cats.runtimeconfig.json
+C:\Users\Chris\source\codeworks\cats\bin\Debug\netcoreapp2.2\cats.runtimeconfig.dev.json
+C:\Users\Chris\source\codeworks\cats\bin\Debug\netcoreapp2.2\cats.dll
+C:\Users\Chris\source\codeworks\cats\bin\Debug\netcoreapp2.2\cats.pdb
+C:\Users\Chris\source\codeworks\cats\obj\Debug\netcoreapp2.2\cats.csprojAssemblyReference.cache
+C:\Users\Chris\source\codeworks\cats\obj\Debug\netcoreapp2.2\cats.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\codeworks\cats\obj\Debug\netcoreapp2.2\cats.RazorAssemblyInfo.cache
+C:\Users\Chris\source\codeworks\cats\obj\Debug\netcoreapp2.2\cats.RazorAssemblyInfo.cs
+C:\Users\Chris\source\codeworks\cats\obj\Debug\netcoreapp2.2\cats.AssemblyInfoInputs.cache
+C:\Users\Chris\source\codeworks\cats\obj\Debug\netcoreapp2.2\cats.AssemblyInfo.cs
+C:\Users\Chris\source\codeworks\cats\obj\Debug\netcoreapp2.2\cats.RazorTargetAssemblyInfo.cache
+C:\Users\Chris\source\codeworks\cats\obj\Debug\netcoreapp2.2\cats.dll
+C:\Users\Chris\source\codeworks\cats\obj\Debug\netcoreapp2.2\cats.pdb
